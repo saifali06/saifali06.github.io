@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e259928d.css",
+    "main.js": "/static/js/main.d468f7bb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Amjad.jpg": "/static/media/Amjad.fbe8e7b8f0c978209553.jpg",
+    "static/media/saif.jpg": "/static/media/saif.0d3b2f363b90cd8d7173.jpg",
+    "static/media/sahil.jpg": "/static/media/sahil.7016c1a196ce905ca02d.jpg",
+    "static/media/boys2.png": "/static/media/boys2.4a9f32e9ac2ce8484951.png",
+    "static/media/irshad.jpg": "/static/media/irshad.d310ef913f7ff20f30a4.jpg",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Resume.pdf": "/static/media/Resume.a6875b38d2dcd7b8597e.pdf",
+    "static/media/Instagram4.png": "/static/media/Instagram4.26b1af8178db1bd75460.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.e259928d.css.map": "/static/css/main.e259928d.css.map",
+    "main.d468f7bb.js.map": "/static/js/main.d468f7bb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e259928d.css",
+    "static/js/main.d468f7bb.js"
+  ]
+}
